@@ -64,20 +64,6 @@ My problem-solving progression follows a structured path:
 
 ---
 
-## 🚀 Current Focus
-
-**Active Category:** Arrays
-
-Topics under exploration:
-
-- Binary Search
-- Prefix Sum
-- Sliding Window
-- Simulation
-- Sorting-based tricks
-
----
-
 ## 📌 Philosophy
 
 > Consistency beats intensity  
