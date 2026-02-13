@@ -1,7 +1,7 @@
 # 📘 LeetCode Practice Log
 
 > Tracking my Data Structures & Algorithms journey 🚀  
-> Structured Learning • Patterns • Interview Preparation
+> Structured Learning • Patterns • Interview Preparation  
 > 🚀 Journey Started: Feb 2026
 
 ---
