@@ -20,7 +20,7 @@ You must write an algorithm with O(log n) runtime complexity.
 
 ### Constraints
 
-- \( 1 \leq \text{nums.length} \leq 10^4 \)
+- \( 1 <= \text{nums.length} <= 10^4 \)
 - \( -10^4 < \text{nums}[i], \text{target} < 10^4 \)
 - All integers in `nums` are unique
 - `nums` is sorted in ascending order
