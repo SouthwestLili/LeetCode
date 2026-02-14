@@ -2,7 +2,7 @@
 
 > Tracking my Data Structures & Algorithms journey 🚀  
 > Structured Learning • Patterns • Interview Preparation  
-> 🚀 Journey Started: Feb 2026
+> 🚀 Journey Started: Feb 2026  
 > My Leetcode link: https://leetcode.com/u/southwest_lili/
 
 ---
