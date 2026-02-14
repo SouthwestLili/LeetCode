@@ -23,6 +23,8 @@ Given the `head` of a linked list and an integer `val`, remove all the nodes of 
 - Input: head = [7,7,7,7], val = 7
 - Output: []
 
+**LeetCode Link:** https://leetcode.com/problems/remove-linked-list-elements/description/
+
 ---
 
 ![alt text](image-1.png)
